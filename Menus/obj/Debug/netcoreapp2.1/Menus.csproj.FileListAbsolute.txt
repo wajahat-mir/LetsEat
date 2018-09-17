@@ -1,0 +1,14 @@
+c:\users\waj\source\repos\Menus\Menus\bin\Debug\netcoreapp2.1\Menus.deps.json
+c:\users\waj\source\repos\Menus\Menus\bin\Debug\netcoreapp2.1\Menus.runtimeconfig.json
+c:\users\waj\source\repos\Menus\Menus\bin\Debug\netcoreapp2.1\Menus.runtimeconfig.dev.json
+c:\users\waj\source\repos\Menus\Menus\bin\Debug\netcoreapp2.1\Menus.dll
+c:\users\waj\source\repos\Menus\Menus\obj\Debug\netcoreapp2.1\Menus.csprojAssemblyReference.cache
+c:\users\waj\source\repos\Menus\Menus\obj\Debug\netcoreapp2.1\Menus.csproj.CoreCompileInputs.cache
+c:\users\waj\source\repos\Menus\Menus\obj\Debug\netcoreapp2.1\Menus.RazorAssemblyInfo.cache
+c:\users\waj\source\repos\Menus\Menus\obj\Debug\netcoreapp2.1\Menus.RazorAssemblyInfo.cs
+c:\users\waj\source\repos\Menus\Menus\obj\Debug\netcoreapp2.1\Menus.AssemblyInfoInputs.cache
+c:\users\waj\source\repos\Menus\Menus\obj\Debug\netcoreapp2.1\Menus.AssemblyInfo.cs
+c:\users\waj\source\repos\Menus\Menus\obj\Debug\netcoreapp2.1\Menus.RazorTargetAssemblyInfo.cache
+c:\users\waj\source\repos\Menus\Menus\bin\Debug\netcoreapp2.1\Menus.pdb
+c:\users\waj\source\repos\Menus\Menus\obj\Debug\netcoreapp2.1\Menus.dll
+c:\users\waj\source\repos\Menus\Menus\obj\Debug\netcoreapp2.1\Menus.pdb
