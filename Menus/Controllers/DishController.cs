@@ -21,6 +21,13 @@ namespace Menus.Controllers
         }
 
         // GET: api/Dish
+        [HttpGet]
+        public ActionResult Get()
+        {
+            return new NotFoundResult();
+        }
+
+        // GET: api/Dish
         [HttpGet("{collection}")]
         public async Task<IActionResult> Get(string collection)
         {
